@@ -11,7 +11,7 @@ public class Calculator {
         int firstNumber;
         int secondNumber;
 
-        for (int i= 1; i<100; i++) {
+        for (int i= 1; i>0; i++) {
 
                 while (true) {
                     calculator();
